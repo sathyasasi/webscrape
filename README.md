@@ -12,3 +12,5 @@ node scrape.js http://www.imdb.com/title/tt5712554/ granttour1.json
 install dependencies
 
 npm install -g request cheerio
+
+npm install -g valid-url
